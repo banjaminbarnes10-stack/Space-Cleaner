@@ -1,0 +1,11 @@
+.gradle/
+.idea/
+build/
+*/build/
+local.properties
+*.iml
+out/
+android/libs/
+
+hs_err_pid*.log
+replay_pid*.log
